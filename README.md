@@ -17,3 +17,5 @@
 - <b>Trade Execution</b>: Once the Bot has made a trading decision, it executes the trade automatically using the API. The Bot <i>can be programmed to enter and exit trades based on predefined conditions</i> such as profit targets, stop losses, and risk management.
 
 - <b>Performance Monitoring</b>: The Bot <i>keeps track of its performance</i> using Matplotlib library to visualize the portfolio performance, P&L, and other trading metrics. The Bot <i>can be customized to generate reports and alerts based</i> on the user's preferences.
+![order_filled](https://github.com/aniketjaiswal21/Algo_trading_bot/assets/113088338/1564e701-1437-4019-bece-f1cd68b8e348)
+![performance_parameters](https://github.com/aniketjaiswal21/Algo_trading_bot/assets/113088338/46d7dabd-fcba-42cd-a938-27db909206b3)
